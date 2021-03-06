@@ -54,4 +54,6 @@ Go to `https://127.0.0.1` to check if the installation was successful.
 It will ask you to insert login credentials (make sure the password is at least 8 characters).
 
 If the Daemon Status is 'Not Running' try this command 
+```
 $ sudo ~/Mycodo/env/bin/python ~/Mycodo/mycodo/mycodo_daemon.py
+```
