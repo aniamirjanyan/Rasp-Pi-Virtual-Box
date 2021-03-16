@@ -31,7 +31,6 @@ Run the following commands
 
 ```
 sudo service mycodoflask restart
-sudo service nginx restart
 ```
 
 Go to `https://127.0.0.1` to check the changes. 
